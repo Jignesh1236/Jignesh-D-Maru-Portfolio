@@ -472,7 +472,7 @@ export default function Home() {
               <Mail size={16} />
               Send me an email
             </a>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/jignesh1236" target="_blank" rel="noopener noreferrer"
                className="border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 px-8 py-3 rounded-full hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform hover:scale-105 flex items-center gap-2">
               <Github size={16} />
               View on GitHub
