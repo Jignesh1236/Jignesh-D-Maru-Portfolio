@@ -467,7 +467,7 @@ export default function Home() {
             transition={{ duration: 0.6, delay: 0.4 }}
             viewport={{ once: true }}
           >
-            <a href="mailto:jignesh@example.com" 
+            <a href="mailto:jigneshmaru690@gmail.com" 
                className="bg-black dark:bg-white text-white dark:text-black px-8 py-3 rounded-full hover:bg-gray-800 dark:hover:bg-gray-200 transition-all duration-200 transform hover:scale-105 flex items-center gap-2">
               <Mail size={16} />
               Send me an email
